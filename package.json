@@ -1,7 +1,7 @@
 {
-  "name": "padrao",
+  "name": "nodejs_starter_kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "node project pre-configured",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules ./src/server.ts",
