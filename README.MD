@@ -17,11 +17,11 @@ Dependendo do projeto, passamos no mínimo 30 minutos para configurar nosso ambi
 
 ## ESTE PROJETO CONTÉM AS SEGUINTES DEPENDÊNCIAS:
 
-. typescript
-. ts-node-dev
-. prettier
-. eslint
-. jest
+- typescript
+- ts-node-dev
+- prettier
+- eslint
+- jest
 
 ## Como executar:
 
