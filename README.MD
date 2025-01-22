@@ -1,6 +1,6 @@
 # PROJETO PADRÃO CONFIGURADO
 
-Para evitar a fadiga, resolve deixar um projeto com start pressionado
+Para evitar a fadiga, resolvi deixar um projeto com start pressionado
 e tudo na resolução low configurado.
 Com Node.js, Typescript, Jest, Eslint e Prettier...
 
